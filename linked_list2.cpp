@@ -26,7 +26,6 @@ class LinkedList{
             newnode->data=data;
             newnode->next=NULL;
             temp->next=newnode;
-
         }
     }
     void clear(){
